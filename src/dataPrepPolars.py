@@ -247,9 +247,9 @@ def main():
     """Main processing function."""
     try:
         # Define file paths
-        accidents_path = '../data/us_accidents.parquet'
-        airports_path = '../data/data-world-us-airports.csv'
-        output_path = '../data/processed/us_accidents_cleaned.parquet'
+        accidents_path = 'data/us_accidents.parquet'
+        airports_path = 'data/data-world-us-airports.csv'
+        output_path = 'data/processed/us_accidents_polars.parquet'
         
         # Create output directory if it doesn't exist
         Path(output_path).parent.mkdir(parents=True, exist_ok=True)
