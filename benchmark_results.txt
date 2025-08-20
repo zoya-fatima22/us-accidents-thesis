@@ -1,0 +1,8 @@
+src/dataPrepPandas.py:
+  Execution Time: 52.68 seconds
+  Peak Memory Usage: 12170.65 MB
+
+src/dataPrepPolars.py:
+  Execution Time: 10.45 seconds
+  Peak Memory Usage: 10086.2 MB
+
