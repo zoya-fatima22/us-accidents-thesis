@@ -1,0 +1,8 @@
+{
+  "TEST_SIZE": 0.2,
+  "CV_FOLDS": 2,
+  "N_ITER_SEARCH": 3,
+  "SCORING_METRIC": "balanced_accuracy",
+  "RANDOM_STATE": 42,
+  "timestamp": "2026-01-26T01:52:18.437216"
+}
